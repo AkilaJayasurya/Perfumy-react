@@ -1,4 +1,6 @@
 Perfumy-React
+
+
 Perfumy is a clean and responsive perfume product showcase built with React. The project demonstrates modular component structure, image-based content, and basic navigation.
 
 🚀 Live Demo
